@@ -1,5 +1,3 @@
-# Color-Classification-ML-Model
-
 Project: Color Classification using Machine Learning Models
 🔬 Overview: In this project, I focused on building an image classification model to identify the dominant color in input images. Using a diverse set of machine learning models—namely Convolutional Neural Networks (CNNs), Support Vector Machine (SVM), and Random Forest (RF)—the goal was to train and evaluate each model on a color dataset, ultimately identifying the best model for classifying images by their color.
 
